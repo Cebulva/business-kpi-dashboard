@@ -1,5 +1,3 @@
-Markdown
-
 # [BUSINESS KPI DASHBOARD]
 
 ---
@@ -13,6 +11,7 @@ Markdown
   - [3.2. Data Modeling in a Warehouse](#32-data-modeling-in-a-warehouse)
   - [3.3. Final Dashboard And Visualization](#33-final-dashboard-and-visualization)
 - [4. Project Components](#4-project-components)
+- [5. Contributors](#5-contributors)
 
 ---
 
@@ -56,7 +55,7 @@ This section contains links to the key deliverables and resources from this proj
 <details>
 <summary>Initial Raw Data (Google Sheet)</summary>
 <br>
-This spreadsheet contains the raw data that served as the starting point for the entire project. It's where the initial exploration and KPI discovery took place.
+This Google Sheet shows the revenue KPIs I created for the project. It contains pivot tables that summarize the data and charts that visualize the key metrics, demonstrating my initial analysis of the company's performance.
 <br>
 <a href="https://docs.google.com/spreadsheets/d/1Ha5fPKU8lrVWPSfVkhw9XGEvXldpoc39vjFBeax_UO0/edit?gid=1031855285#gid=1031855285">View Google Sheet</a>
 </details>
@@ -64,7 +63,7 @@ This spreadsheet contains the raw data that served as the starting point for the
 <details>
 <summary>SQL Queries for BigQuery</summary>
 <br>
-The SQL queries used for this project demonstrate our process of transforming raw data into structured, analytical insights for the dashboard. Due to the data retention policy of the free BigQuery service, a screenshot of the queries has been preserved to document our work.
+The SQL queries used for this project demonstrate our process of transforming raw data into structured, analytical insights for the dashboard. Due to the data retention policy of the free BigQuery service, a screenshot of one of my queries has been preserved to document our work.
 <br>
 <a href="https://github.com/Cebulva/business-kpi-dashboard/blob/main/Screenshots/BigQueryRevenueQuery.png">View SQL Revenue Query</a>
 </details>
@@ -72,7 +71,15 @@ The SQL queries used for this project demonstrate our process of transforming ra
 <details>
 <summary>Final KPI Dashboard (Looker Studio)</summary>
 <br>
-The final interactive dashboard built to provide the CEO with a clear, ongoing view of GoExplore’s performance. This dashboard visualizes the key metrics and insights derived from the data analysis.
+The final interactive dashboard built to provide the CEO with a clear, ongoing view of GoExplore’s performance. This dashboard visualizes the key metrics and insights derived from the data analysis. I was responsible for the first slide of the dashboard.
 <br>
 <a href="https://lookerstudio.google.com/reporting/928e4db6-c643-41d3-a4b2-d90d151dd09a">View Dashboard</a>
 </details>
+
+## 5. Contributors
+
+This project was a collaborative effort. I would like to thank the following individuals for their valuable contributions:
+
+-   **@camontefusco**
+-   **@victoria-vasilieva**
+-   **@Zehando**
