@@ -80,6 +80,7 @@ The final interactive dashboard built to provide the CEO with a clear, ongoing v
 
 This project was a collaborative effort. I would like to thank the following individuals for their valuable contributions:
 
-- [@camontefusco](https://github.com/camontefusco/)
-- [@victoria-vasilieva](https://github.com/victoria-vasilieva)
-- [@Zehando](https://github.com/Zehando)
+- [@camontefusco](https://github.com/camontefusco/): Carlos Montefusco
+- [@victoria-vasilieva](https://github.com/victoria-vasilieva): Victoria Vasilieva
+- [@Zehando](https://github.com/Zehando): Sahand Azizigargari
+
