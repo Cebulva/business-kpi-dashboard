@@ -1,4 +1,4 @@
-# [BUSINESS KPI DASHBOARD]
+# BUSINESS KPI DASHBOARD
 
 ---
 
@@ -84,3 +84,6 @@ This project was a collaborative effort. I would like to thank the following ind
 - [@victoria-vasilieva](https://github.com/victoria-vasilieva): Victoria Vasilieva
 - [@Zehando](https://github.com/Zehando): Sahand Azizigargari
 
+<a href="https://github.com/Cebulva/streamlit_sql_library_app/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=Cebulva/streamlit_sql_library_app" />
+</a>
